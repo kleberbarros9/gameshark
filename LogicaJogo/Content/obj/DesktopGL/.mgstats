@@ -1,0 +1,16 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/background.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",1853197,4194389,0.4756961
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/nave/nave1.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/nave/nave1.xnb","TextureProcessor","Texture2DContent",2145,3485,0.0018803
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/nave/nave2.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/nave/nave2.xnb","TextureProcessor","Texture2DContent",2110,3485,0.0027368
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/nave/nave3.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/nave/nave3.xnb","TextureProcessor","Texture2DContent",2321,3485,0.0109231
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/nave/nave4.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/nave/nave4.xnb","TextureProcessor","Texture2DContent",2184,3485,0.001471
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/nave/nave5.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/nave/nave5.xnb","TextureProcessor","Texture2DContent",2312,3485,0.0015274
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/scoreFont.spritefont","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/scoreFont.xnb","LocalizedFontProcessor","SpriteFontContent",2428,937,0.2954512
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/shark/shark01.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/shark/shark01.xnb","TextureProcessor","Texture2DContent",5761,21445,0.0030917
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/shark/shark02.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/shark/shark02.xnb","TextureProcessor","Texture2DContent",7480,21445,0.0027736
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/shark/shark03.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/shark/shark03.xnb","TextureProcessor","Texture2DContent",8921,21445,0.0029823
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/shark/shark04.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/shark/shark04.xnb","TextureProcessor","Texture2DContent",8343,21445,0.0027768
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/shark/shark05.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/shark/shark05.xnb","TextureProcessor","Texture2DContent",8086,21445,0.0058465
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/shark/shark06.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/shark/shark06.xnb","TextureProcessor","Texture2DContent",2537,21445,0.0023072
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/shark/shark07.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/shark/shark07.xnb","TextureProcessor","Texture2DContent",1749,21445,0.0023664
+"/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/shark/shark08.png","/home/kleber/Documents/GameEngine/Jogo_v02.1/Content/bin/DesktopGL/shark/shark08.xnb","TextureProcessor","Texture2DContent",596,21445,0.0019972

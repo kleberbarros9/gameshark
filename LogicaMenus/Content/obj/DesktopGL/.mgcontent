@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Arthur/Desktop/monogame-engine-game_engine_8_screen_flow/Content/background.png</File>
+    <File>C:/Users/Arthur/Desktop/monogame-engine-game_engine_8_screen_flow/Content/creditos.jpg</File>
+    <File>C:/Users/Arthur/Desktop/monogame-engine-game_engine_8_screen_flow/Content/creditosButton.jpg</File>
+    <File>C:/Users/Arthur/Desktop/monogame-engine-game_engine_8_screen_flow/Content/exit_button.png</File>
+    <File>C:/Users/Arthur/Desktop/monogame-engine-game_engine_8_screen_flow/Content/play_button.png</File>
+    <File>C:/Users/Arthur/Desktop/monogame-engine-game_engine_8_screen_flow/Content/praia.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
